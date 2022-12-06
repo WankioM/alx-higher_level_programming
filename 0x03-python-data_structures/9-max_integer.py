@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 9-max_integer.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Tracy Wankio M
 
 
 def max_integer(my_list=[]):

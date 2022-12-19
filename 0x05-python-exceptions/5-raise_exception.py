@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 5-raise_exception.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Tracy Wankio
 
 
 def raise_exception():

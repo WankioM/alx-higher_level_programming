@@ -1,5 +1,5 @@
 # 0-add_integer.txt
-# Lee Mboya
+# Tracy Wankio
 
 ===========================
 How to Use 0-add_integer.py

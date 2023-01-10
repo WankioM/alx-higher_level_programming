@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-read_lines.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Tracy Wankio
 """Defines a text file-reading function."""
 
 

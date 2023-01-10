@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 13-student.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Tracy Wankio
 """Defines a class Student."""
 
 

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-append_after.py
-# Lee Mboya
+# Tracy Wankio
 """Defines a text file insertion function."""
 
 

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 1-number_of_lines.py
-# Lee Mboya
+# Tracy Wankio
 """Defines a text file line-counting function."""
 
 

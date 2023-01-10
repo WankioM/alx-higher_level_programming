@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 0-read_file.py
-# Lee Mboya
+# Tracy Wankio
 """Defines a text file-reading function."""
 
 

@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 10-class_to_json.py
-# Lee Mboya
+# Tracy Wankio
 """Defines a Python class-to-JSON function."""
 
 

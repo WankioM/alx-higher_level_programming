@@ -1,5 +1,5 @@
 $('document').ready(function () {
-  $.get('https://swapi-api.alx-tools.com/api/films/?', function (data) {
+  $.get('https://fourtonfish.com/hellosalut/?lang=fr', function (data) {
     $('DIV#hello').text(data.hello);
   });
 });
